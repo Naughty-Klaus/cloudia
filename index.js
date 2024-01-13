@@ -1,4 +1,4 @@
-// Testing some cool shit.
+// The last straw.
 
 const fs = require('fs');
 
