@@ -1,4 +1,4 @@
-// Testing some cool shit. #11
+// Testing some cool shit.
 
 const fs = require('fs');
 
