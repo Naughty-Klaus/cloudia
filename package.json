@@ -1,0 +1,17 @@
+{
+  "name": "cloudia",
+  "version": "1.0.0",
+  "description": "Scalable Discord utility bot using Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "refresh": "node deploy-once.js"
+  },
+  "author": "Raunchy Santa",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0",
+    "js-priority-queue": "^0.1.5",
+    "mongoose": "^7.0.2"
+  }
+}

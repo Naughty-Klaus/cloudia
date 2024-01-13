@@ -1,0 +1,5 @@
+{
+    "clientId": "DISCORD_BOT_CLIENT_ID_HERE",
+    "token": "DISCORD_BOT_TOKEN_HERE",
+    "mongoServer": "mongodb://localhost:27017/cloudia"
+}
